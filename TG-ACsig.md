@@ -1,13 +1,5 @@
 ```html
-Content-Transfer-Encoding: 7bit
-Content-Type: text/html;
-	charset=us-ascii
-Message-Id: <CA153F64-D75A-4549-AD72-954417DFBCAB>
-Mime-Version: 1.0 (Mac OS X Mail 9.2 \(3112\))
-
-
-  
-    <body style="background: #ffffff;max-width: 100%!important;">    
+ <body style="background: #ffffff;max-width: 100%!important;">    
 
    
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -117,7 +109,5 @@ Mime-Version: 1.0 (Mac OS X Mail 9.2 \(3112\))
             </tr>
         </table>
     </body>
-
-
 
 ```
