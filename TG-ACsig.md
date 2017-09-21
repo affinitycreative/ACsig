@@ -1,13 +1,21 @@
 ```html
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=us-ascii
+Message-Id: <CA153F64-D75A-4549-AD72-954417DFBCAB>
+Mime-Version: 1.0 (Mac OS X Mail 9.2 \(3112\))
+
+
+  
+    <body style="background: #ffffff;max-width: 100%!important;">    
+
+   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,300,700" rel="stylesheet" type="text/css">
         <style type="text/css">
             
             /*Global Styles*/
-            body { background: #ffffff; margin: 0; padding: 0; min-width: 100%!important;}
+            body { background: #ffffff;  max-width: 100%!important; }
             a { color: #333333; text-decoration: none; font-weight: 300;}
             img {height: auto;}
             .content { margin-top: 20px; margin-bottom: 20px; }
@@ -24,8 +32,8 @@
             }
             
         </style>
-    </head>
-    <body style="background: #ffffff;margin: 0;padding: 0;min-width: 100%!important;">      
+
+          
         <table width="25%" border="0" cellpadding="0" cellspacing="0">
             <tr>
                 <td>
@@ -59,13 +67,13 @@
                                                         <table border="0" cellspacing="0" cellpadding="0">
                                                             <tr>
                                                                 <td style="font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; color: #000000;" class="name">
-                                                                    Trent Gardner II <span style="font-family: 'Lato', sans-serif; color: #6d6e71; font-size: 10px;text-transform: lowercase;white-space: nowrap;">web development lead</span>
+                                                                    Trent Gardner II <span style="font-family: 'Lato', sans-serif; color: #6d6e71; font-size: 12px;text-transform: lowercase;white-space: nowrap;">web development lead</span>
                                                                 </td>
                                                                 
                                                             </tr>
 
                                                             <tr>
-                                                                <td style="font-family: sans-serif; font-size: 10px; color: #333333; font-weight: bold; padding: 15px 0 10px 0;">
+                                                                <td style="font-family: sans-serif; font-size: 12px; color: #333333; font-weight: bold; padding: 15px 0 10px 0;">
                                                                     <table border="0" cellspacing="0" cellpadding="0">
                                                                         <tr>
                                                                             
@@ -81,7 +89,7 @@
                                                                         </tr>
                                                                         <tr>
                                                         
-                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="http://affinitycreative.com/" target="_blank">affinitycreative.com</a></td>
+                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="http://digital.affinitycreative.com/" target="_blank">digital.affinitycreative.com</a></td>
                                                                         </tr>
                                                                     </table>
                                                                     
@@ -109,5 +117,7 @@
             </tr>
         </table>
     </body>
-</html>
+
+
+
 ```
