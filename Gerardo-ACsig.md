@@ -1,5 +1,5 @@
 ```html
- <body style="background: #ffffff;max-width: 100%!important;">    
+  <body style="background: #ffffff;max-width: 100%!important;">    
 
    
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,7 +59,7 @@
                                                         <table border="0" cellspacing="0" cellpadding="0">
                                                             <tr>
                                                                 <td style="font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; color: #000000;" class="name">
-                                                                    Trent Gardner II <span style="font-family: 'Lato', sans-serif; color: #6d6e71; font-size: 12px;text-transform: lowercase;white-space: nowrap;">web development lead</span>
+                                                                    GERARDO GARCIA-JURADO <span style="font-family: 'Lato', sans-serif; color: #6d6e71; font-size: 12px;text-transform: lowercase;white-space: nowrap;">chief creative officer</span>
                                                                 </td>
                                                                 
                                                             </tr>
@@ -69,19 +69,19 @@
                                                                     <table border="0" cellspacing="0" cellpadding="0">
                                                                         <tr>
                                                                             
-                                                                            <td valign="top" class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="mailto:trent@affinitycreative.com?subject=Hello!">trent@affinitycreative.com</a></td>
+                                                                            <td valign="top" class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="mailto:gerardo@affinitycreative.com">gerardo@affinitycreative.com</a></td>
                                                                         </tr>
                                                                         <tr>
                                                                             
-                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="tel:+17075580744">707.558.0744 (o)</a></td>
+                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="tel:+17075622787">707.562.2787 (o)</a></td>
                                                                         </tr>
                                                                         <tr>
                                                                             
-                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="tel:+14155458625">415.545.8625 (c)</a></td>
+                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="tel:+16465547506">646.554.7506 (c)</a></td>
                                                                         </tr>
                                                                         <tr>
                                                         
-                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="http://digital.affinitycreative.com/" target="_blank">digital.affinitycreative.com</a></td>
+                                                                            <td class="listitem" style="padding: 0 0 5px 0;"><a style="padding: 0 0 8px 0;font-family: 'Lato', sans-serif;color: #808285;white-space: nowrap;letter-spacing: 1px;text-decoration: none;font-weight: 300;" href="http://affinitycreative.com/" target="_blank">affinitycreative.com</a></td>
                                                                         </tr>
                                                                     </table>
                                                                     
@@ -109,5 +109,6 @@
             </tr>
         </table>
     </body>
+
 
 ```
